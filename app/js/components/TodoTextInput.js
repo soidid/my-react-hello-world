@@ -43,8 +43,8 @@ var TodoTextInput =
     	  對應上述方式，input 長相：
 
     	  第一種 <input onChange={this._onChange}/>
-          第二種 <input ref="textInput" onChange={this._onChange}/>
-          第三種 <input id="todo-input" ref="textInput" onChange={this._onChange}/>
+        第二種 <input ref="textInput" onChange={this._onChange}/>
+        第三種 <input id="todo-input" ref="textInput" onChange={this._onChange}/>
     	*/
 
         return (

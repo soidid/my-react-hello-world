@@ -1,3 +1,5 @@
+[demo](http://soidid.github.io/my-react-hello-world/build/)
+
 react.js practice based on:
 
 [Tutorial – Todo List](http://facebook.github.io/flux/docs/todo-list.html)
