@@ -1,0 +1,15 @@
+*{box-sizing:border-box;font-family:Georgia,Serif}
+.container{max-width:700px;margin:0 auto;background:#fff;padding:10px;min-height:100vh}
+button,input{border:1px solid #353736;background:#fff;height:30px;margin:5px;padding:4px 10px;font-size:16px}
+input:focus{outline:0}
+button{cursor:pointer}
+button:focus{outline:0}
+button:hover{background:#353736;color:#fff}
+.TodoInput-preview{padding:5px}
+.TodoItem{width:100%;position:relative;height:40px;padding-top:10px;padding-left:10px}
+.TodoItem--done{text-decoration:line-through}
+.TodoItem:hover{background:#dcdcdc}
+.TodoItem-buttonSection{position:absolute;right:0;top:0}
+.TodoItem-button{display:inline-block;width:90px}
+.ClearComplete{margin:5px;color:#c8c8c8;cursor:pointer}
+.ClearComplete:hover{text-decoration:underline}
